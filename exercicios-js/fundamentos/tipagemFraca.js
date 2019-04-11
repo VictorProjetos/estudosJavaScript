@@ -19,7 +19,7 @@ de encontrar BUG's devidos a tipos de dados, onde no Java nesta questão, é mui
 
 SEMPRE evitar usar nomes genericos para variaveis, pense que alguem lerá seu código
 e com nomes claros, será bem mais facil entender o seu trabalho.
-a palavra reservada "typeof" imprimi o tipo de dado que a variavel contém. 
+a palavra reservada "typeof" imprimi o tipo de dado que a variavel contém. (linha7)
 
 
 */

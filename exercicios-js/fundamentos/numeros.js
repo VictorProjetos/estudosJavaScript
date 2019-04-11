@@ -15,11 +15,11 @@ console.log(media.toFixed(2));
 console.log(media.toString(2));
 /* CONSIDERAÇÕES FINAIS E ANOTAÇÃO DA AULA
 
-"Number.isInteger" é utilizado para verificar se um tipo de variavél "Number" é inteiro, retornando TRUE ou FALSE.
+"Number.isInteger" é utilizado para verificar se um tipo de variavél "Number" é inteiro, retornando TRUE ou FALSE.(linha5 e 6)
 
 "toFixed" serve para ter um controle maior sobre numeros com muitas casas decimais, após determinar a quantidade de casa
-a ser exibida, ele irá tirar os números após esta casa determinada.
+a ser exibida, ele irá tirar os números após esta casa determinada.(linha14)
 
-"toString" converte o valor de uma variavel numerica para String.
+"toString" converte o valor de uma variavel numerica para String.(linha15)
 
 */
